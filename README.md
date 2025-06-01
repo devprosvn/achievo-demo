@@ -13,6 +13,7 @@ This starter full stack project has been generated using AlgoKit. See below for 
 6. For project-specific instructions, refer to the READMEs of the child projects:
    - Smart Contracts: [achievo-demo-contracts](projects/achievo-demo-contracts/README.md)
    - Frontend Application: [achievo-demo-frontend](projects/achievo-demo-frontend/README.md)
+   - Backend API: [backend](backend/README.md)
 
 > This project is structured as a monorepo, refer to the [documentation](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/features/project/run.md) to learn more about custom command orchestration via `algokit project run`.
 
